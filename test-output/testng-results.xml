@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-08T00:20:49 IST" name="Suite" finished-at="2022-04-08T00:20:49 IST" duration-ms="30">
+    <groups>
+    </groups>
+    <test started-at="2022-04-08T00:20:49 IST" name="Test" finished-at="2022-04-08T00:20:49 IST" duration-ms="30">
+      <class name="MavenPack.ClassTest">
+        <test-method signature="MavenTest1()[pri:0, instance:MavenPack.ClassTest@611889f4]" started-at="2022-04-08T00:20:49 IST" name="MavenTest1" finished-at="2022-04-08T00:20:49 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenTest1 -->
+        <test-method signature="MavenTest11()[pri:0, instance:MavenPack.ClassTest@611889f4]" started-at="2022-04-08T00:20:49 IST" name="MavenTest11" finished-at="2022-04-08T00:20:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MavenTest11 -->
+      </class> <!-- MavenPack.ClassTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

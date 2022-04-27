@@ -16,7 +16,9 @@ public class ClassTest
 	public void MavenTest11()
 	{
 		System.out.println("MavenTest2");
-		
+		System.out.println("MavenTest2");
+		System.out.println("MavenTest2");
+		System.out.println("MavenTest2");
 	}
 	
 }

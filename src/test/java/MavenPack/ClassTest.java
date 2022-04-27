@@ -8,7 +8,9 @@ public class ClassTest
 	public void MavenTest1()
 	{
 		System.out.println("MavenTest1");
-		
+		System.out.println("MavenTest2");
+		System.out.println("MavenTest3");
+		System.out.println("MavenTest4");
 	}
 	@Test
 	public void MavenTest11()
